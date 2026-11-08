@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.5",
-    "notes":  "Nouveau logo, numéro de version dans les paramètres, une seule fenêtre de l\u0027app à la fois.",
-    "pub_date":  "2026-11-08T18:01:32Z",
+    "version":  "0.2.6",
+    "notes":  "Bouton « Rechercher une mise à jour » dans les paramètres ; recherche automatique toutes les heures.",
+    "pub_date":  "2026-11-08T19:31:41Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEt4Q3daY0E3VCtYY1lRT1FNNHRvMHYvSGVnaXlmbUViUTIyNk5mL2hxckhsck96alM2NXhwdmNWR0tmUmttMlZwT1BGaGJSOEMrdzhvZWV5KzlhdlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTYwODg5CWZpbGU6U05TUyBDbGllbnRfMC4yLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi41Ck1NUlBOM3hqUzJkbW5ad2RDWWl1YTB6SkFzUXRhSTVCby8zclFqZ2d5a1k3amYyUjFiUW9Tek5ac2JkY3pVK0pzaXlIcCtRSmx0dFRQMGJLQ0lWdUJnPT0K",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.5/snss-client_0.2.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEFrdkpUKzRucDFyTVVIQnZLTjhtTnYybnlQLzI5U0NnLzZ5Y3pIRi9qZUxYNU5VWGNJYldaaVlHbUtDMEwzSFhEd0pDYTVkbUE0YUN4cytsUXV3cVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTY2Mjk3CWZpbGU6U05TUyBDbGllbnRfMC4yLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi42ClNFazA5bXl6dkxuVjBFMGlzcG1xWnEzTE50MkQraDRUUS8yQW5TcXd1Y2cwek01SVo0Wmpsc2N4MXZadWNMS3Y3ZEpFaG55dkdRTnpveG4zb2lFVERBPT0K",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.6/snss-client_0.2.6_x64-setup.exe"
                                          }
                   }
 }
