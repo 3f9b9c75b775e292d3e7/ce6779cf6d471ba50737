@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.2",
-    "notes":  "Carte « Mettre à jour » et installation ratée signalée.",
-    "pub_date":  "2026-11-08T17:39:25Z",
+    "version":  "0.2.3",
+    "notes":  "Nouveau logo, numéro de version dans les paramètres, une seule fenêtre de l\u0027app à la fois.",
+    "pub_date":  "2026-11-08T18:04:54Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEYzbVRQcHVtVG1RY0dnem1uN2dJS1BkYlpiam5FYndXZkhkWHVCTUkyT2RTU2lqYisrUG9WTjNnQytaWitud0NGeTBqM1Z5QjJPZ1p5VFlmUjBERHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU5NTYxCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4yCjNzYVFSMzFGanA4R25GTmp0bytZMVJWTk52YXhIaC82T0t5RlI5MG4wT2JGaDJWZDJsblNyOTFGQnU5YTBKdXU1amx4RlpGQUNzY1ltRWhtQzQxcUJBPT0K",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.2/snss-autorite_0.2.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE8yOGtuTE8rVFFJQnFGZDBIYmZ0aTVuR1pmeG9Tc2dCaysxcTY3OWNrMFVBS0loSERpWnVYV0JLTzN6Rk9XYk55STg1dXl2UUU1REVFQTFTM0lzTndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTYxMDg5CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4zCkVvREo3UFpLaHJDMlozckIxeUFzYnBmeVlqU0lNUjhlYTQwSnU5a0c1cUtIdmd3d21qM2lGNThXd0puTTlSUWtvQTVKOHF5aGVDRTdkYzNLM2pWbkFnPT0K",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.3/snss-autorite_0.2.3_x64-setup.exe"
                                          }
                   }
 }
