@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.7",
-    "notes":  "Suivi d\u0027incident : une étape sautée ne s\u0027affiche plus comme faite.",
-    "pub_date":  "2026-11-08T20:27:04Z",
+    "version":  "0.2.8",
+    "notes":  "Suivi des signalements animé, textes plus courts, vouvoiement.",
+    "pub_date":  "2026-11-08T21:17:18Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEVvcVdSbmRiKzdTN0F2aTRvT1BMODM4c0o5a0c4cWdrc1BvenhyTWZQVmdsZmEvWlBISE1EWFI0WFlhOExSSTcrb3RSVUVlMUZLVEViVjMzcXgrQXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTY5NjIwCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi43CjltSGYxbkMxem4zblZ6KzdxY2FVcVRDZVVHbmNqNU02Q0RDM1gzOW5DYmgzNE5PVC9PK1hRYkp5R2xFS3IwcFJsS2JYTTdLcUxMVTFOSGFCVGkrb0NRPT0K",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.7/snss-autorite_0.2.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEVXVFQxWVFSTWdkekZsemZ0WmNFRzdlUGg3Q2d3aHVtb3FESWFBbkswNUFEL2ZSSjJxdWxZM2NRUVIvbmc4L1I5STdaQnIxWXhtNmNuRU03RHlTbUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTcyNjM0CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi44Ck5xMklMeFZ6L29MWm9WRlMyeFo2ck4rWnhoc01Da0NqQjU1Y1hhZDVGbHRINTl2dXlBK3pXWmZ4MkJDNDB0UEpMbFpBdDhyaGsreE1jYWpVaUFjRUR3PT0K",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.8/snss-autorite_0.2.8_x64-setup.exe"
                                          }
                   }
 }
