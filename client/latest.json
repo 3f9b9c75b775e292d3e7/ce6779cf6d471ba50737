@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.9",
-    "notes":  "Suivi des signalements animé, textes plus courts, vouvoiement.",
-    "pub_date":  "2026-11-08T21:13:39Z",
+    "version":  "0.2.10",
+    "notes":  "Suivi des signalements : un mail à chaque étape, « Pris en charge » distinct. Onglet Fichiers retiré, onglet Configuration toujours rempli. Types de menace (WebShell, RAT, cheval de Troie…). Blocage par Cloudflare reconnu.",
+    "pub_date":  "2026-11-08T23:16:58Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEZ6RE90SitHTzNjSXBnUmJvNGxNRFYxTW1mbHlmTmp5cEJEY0ZJOW80YlNTYk9OL0tQSG5CcjZqNG9KS1VBY0NkcGlxSjV6b2JaYm10TC9BdDMwS0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTcyNDE1CWZpbGU6U05TUyBDbGllbnRfMC4yLjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi45ClZQL0ovVFZzMU1XOFAvc2pSVUdQZnBWWDhGYjhqRGZRYlNTQUNQOGVkMG5xRDJjL1FVMU5ZUng3a2pqL3llaDFFR1RIckN4bFRxV3UrYmdKd29SWENRPT0K",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.9/snss-client_0.2.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZElIMU1QOHg1anowb25qYk1maWx5OUE5V01MaUxzNFhTdTRvUmVsQktqNE5Db0hkRFE1VERkVVV2eEFobk00cFBnenBPU0t2cFNoMWtJZDc3eGZud3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc5ODE0CWZpbGU6U05TUyBDbGllbnRfMC4yLjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTAKcDlseHR1QkR5TzJTaUlORkhFalBHOE5CMDB2eTV3UjlPdzRhcXZYN1hMM21GZ3ljNXc1bFJ1QjBGZEZTWFVzakFNWkYwNG01TWNQanpCZUlhV0tMQ0E9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.10/snss-client_0.2.10_x64-setup.exe"
                                          }
                   }
 }
