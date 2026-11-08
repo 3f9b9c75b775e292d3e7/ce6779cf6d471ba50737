@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.8",
-    "notes":  "Suivi d\u0027incident : une étape sautée ne s\u0027affiche plus comme faite.",
-    "pub_date":  "2026-11-08T20:23:49Z",
+    "version":  "0.2.9",
+    "notes":  "Suivi des signalements animé, textes plus courts, vouvoiement.",
+    "pub_date":  "2026-11-08T21:13:39Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEVSRlZoNDdhM0dHSDhWYkxoeGxOWjF0ZXRFNW9PSGNJWC9FSXM5Vk1TeVhOMFluVnorNDJhb1IzMXFYd293QU9QUmZ3cUxSRFZIeFo4b3F1ZkZtY1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTY5NDI2CWZpbGU6U05TUyBDbGllbnRfMC4yLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi44CmJZYlFQR2ljdEhFMFpzYkNvMDhiVU05N2UveG1FK3ZhWm1XdUw3ek9PQU5ER2dlR3k5TnFJR1VyUzJNRTkyR3l3UUFPUlhINmdwZDQ5Zy9JdjYyNURnPT0K",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.8/snss-client_0.2.8_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEZ6RE90SitHTzNjSXBnUmJvNGxNRFYxTW1mbHlmTmp5cEJEY0ZJOW80YlNTYk9OL0tQSG5CcjZqNG9KS1VBY0NkcGlxSjV6b2JaYm10TC9BdDMwS0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTcyNDE1CWZpbGU6U05TUyBDbGllbnRfMC4yLjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi45ClZQL0ovVFZzMU1XOFAvc2pSVUdQZnBWWDhGYjhqRGZRYlNTQUNQOGVkMG5xRDJjL1FVMU5ZUng3a2pqL3llaDFFR1RIckN4bFRxV3UrYmdKd29SWENRPT0K",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.9/snss-client_0.2.9_x64-setup.exe"
                                          }
                   }
 }
