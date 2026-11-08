@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.2",
-    "notes":  "Essai de mise à jour automatique.",
-    "pub_date":  "2026-11-08T17:11:03Z",
+    "version":  "0.2.3",
+    "notes":  "Carte « Mettre à jour » dans la barre latérale.",
+    "pub_date":  "2026-11-08T17:20:43Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE1qK1ZtUHp2L05IQzlxbGMwbGdTdEFHYzZnNUc3YmZiTEYxMUgzZzRDdk5hbEM1eWVPVFVzdVg1a01lWnNsa1hpU0tnRGFaNm5BRFFYOTJMbXJFZWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU3ODU5CWZpbGU6U05TUyBDbGllbnRfMC4yLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4yCmcxOWJMUVJZRXhqdTA2aXFIaVd2VEt6NjFGb0UycFlpbGxxWEFuQXltSE1GazdhY3puSG5ibWJzUVNEMURKazBGUmhTbzNLWFh0dXcyTStUSlg0SUNRPT0K",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.2/snss-client_0.2.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEdKRW91WWVzR3pHWVhkRzF4RktjZ0t0amt4L1RTelFIQ24yam9NbUV1TGtKMThEempjbkgxUWpUWmZyMnlQMzBOYjVLLzlVa3ZEK1doWERyL1lqelFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU4NDM5CWZpbGU6U05TUyBDbGllbnRfMC4yLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4zClRqTjZZQTZnSFg0U1Y4QVM3ZnVnNWZVcFRad3FBNjdFRjlVenkvb3ppYm1oYTI4Nlhma3Arbmp4em5pdHU5QUtmeWxoZ0d4ckJSTmMxS2RNZDRHQ0FRPT0K",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.3/snss-client_0.2.3_x64-setup.exe"
                                          }
                   }
 }
