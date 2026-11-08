@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.5",
-    "notes":  "Bouton « Rechercher une mise à jour » dans les paramètres ; recherche automatique toutes les heures.",
-    "pub_date":  "2026-11-08T19:34:54Z",
+    "version":  "0.2.6",
+    "notes":  "Dossiers d\u0027incident : signalements des clients, suivi, réglage de l\u0027adresse des signalements.",
+    "pub_date":  "2026-11-08T20:13:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEdkODFrMGlqTkZJMFVtZzZ4WFVPZS91cTA5NjRrSWpvMFBtTytBNUhSaUpHVVhwcHVjK1hDVElQbmYyV1pZL09SYXFrQ2N3YWVYYUQ3amt5a1FDVnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTY2NDkwCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi41ClB5dkFtd09QWDIydTF4ay9USjVFL0FJK2hCOEJjT2lDZWhiYjk0UHdvQ3ZFTUlIZzQ1cERKQTRWaTgrWk1IM1lVcDRXTW43L1JLRUcwdEZYVy81a0JBPT0K",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.5/snss-autorite_0.2.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEpkTVhraTIzNjdyK1UydnBLblFVeTkvbksxeVdBVUg0a2UrQ3VmdUJrSTYyeXpGbi92Q1lybnJibVRFNUREWStmRG5zQWFGWmJKSEkyYTNGUnNnZXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTY4Nzc2CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi42Cm1Tc3gwQ3IzT21jb3gxdjVlOXNsb09iN3RzeDR3SCtMcDZMbmltT2xXTTJyWkZiQlo3d2tFekFHS1dOLzVKLzY5YW8rMHhoSnhxZ0p5ckhJWjVybUFBPT0K",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.6/snss-autorite_0.2.6_x64-setup.exe"
                                          }
                   }
 }
