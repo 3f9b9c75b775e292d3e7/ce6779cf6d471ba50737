@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.4",
-    "notes":  "Essai de la carte « Mettre à jour ».",
-    "pub_date":  "2026-11-08T17:28:57Z",
+    "version":  "0.2.5",
+    "notes":  "Nouveau logo, numéro de version dans les paramètres, une seule fenêtre de l\u0027app à la fois.",
+    "pub_date":  "2026-11-08T18:01:32Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZElRUUR4N01xM2dxVEFBYitUZzNlcTBUenVSUFZJRzF5Nk9WSmN0QzR0aG54YnIveFZ5RkxqZEp3ZUhvR0d6VXhZOEl1NGZyMmRyWWRMeEVoNXdrVWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU4OTMzCWZpbGU6U05TUyBDbGllbnRfMC4yLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi40CjRkM3U3VVgyVjMxN1J3Mmt4RFUzRVFJUHNXRmgzckVBZmdraVdTTDdCaUVFb1R6QWNRb3MrZWQ3THhCZkFBTkFjNCtOY0hxZzNseThWOStVMEZGdkJnPT0K",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.4/snss-client_0.2.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEt4Q3daY0E3VCtYY1lRT1FNNHRvMHYvSGVnaXlmbUViUTIyNk5mL2hxckhsck96alM2NXhwdmNWR0tmUmttMlZwT1BGaGJSOEMrdzhvZWV5KzlhdlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTYwODg5CWZpbGU6U05TUyBDbGllbnRfMC4yLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi41Ck1NUlBOM3hqUzJkbW5ad2RDWWl1YTB6SkFzUXRhSTVCby8zclFqZ2d5a1k3amYyUjFiUW9Tek5ac2JkY3pVK0pzaXlIcCtRSmx0dFRQMGJLQ0lWdUJnPT0K",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.5/snss-client_0.2.5_x64-setup.exe"
                                          }
                   }
 }
