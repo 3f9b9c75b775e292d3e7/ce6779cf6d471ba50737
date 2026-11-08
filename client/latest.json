@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.6",
-    "notes":  "Bouton « Rechercher une mise à jour » dans les paramètres ; recherche automatique toutes les heures.",
-    "pub_date":  "2026-11-08T19:31:41Z",
+    "version":  "0.2.7",
+    "notes":  "Bouton « Signaler un piratage » et suivi du dossier par étapes.",
+    "pub_date":  "2026-11-08T20:09:47Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEFrdkpUKzRucDFyTVVIQnZLTjhtTnYybnlQLzI5U0NnLzZ5Y3pIRi9qZUxYNU5VWGNJYldaaVlHbUtDMEwzSFhEd0pDYTVkbUE0YUN4cytsUXV3cVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTY2Mjk3CWZpbGU6U05TUyBDbGllbnRfMC4yLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi42ClNFazA5bXl6dkxuVjBFMGlzcG1xWnEzTE50MkQraDRUUS8yQW5TcXd1Y2cwek01SVo0Wmpsc2N4MXZadWNMS3Y3ZEpFaG55dkdRTnpveG4zb2lFVERBPT0K",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.6/snss-client_0.2.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE5NMjlBcjk5QVMvejlyaStyZ1J6Yk1SMnJIOFJxSURmN3g2TU03c1k1WWNNZjBxanJmM0Z6SmtOeE5nZHVDQ2tJWlhNNlA2bmpUMXlNLzVFR3lpY3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTY4NTgzCWZpbGU6U05TUyBDbGllbnRfMC4yLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi43CjZSaG5qUFExYVdRNnVQeFpqbkVCb0NZNmVpNm8vV1NIWEMremxpN2JDc01ya3R2bXgrYzAyOUY1SVA3UmROUFlKNk9jRGJ2ZEV4VE5DTVBveGwyb0RRPT0K",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.7/snss-client_0.2.7_x64-setup.exe"
                                          }
                   }
 }
