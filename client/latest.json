@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.10",
-    "notes":  "Suivi des signalements : un mail à chaque étape, « Pris en charge » distinct. Onglet Fichiers retiré, onglet Configuration toujours rempli. Types de menace (WebShell, RAT, cheval de Troie…). Blocage par Cloudflare reconnu.",
-    "pub_date":  "2026-11-08T23:16:58Z",
+    "version":  "0.2.11",
+    "notes":  "Marquer comme normal : un point vérifié ne compte plus dans les alertes, sauf s\u0027il change. WordPress en français mieux reconnu (contrôle d\u0027intégrité). Faux positifs corrigés (liste noire anti-spam, debug.log).",
+    "pub_date":  "2026-11-08T23:48:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZElIMU1QOHg1anowb25qYk1maWx5OUE5V01MaUxzNFhTdTRvUmVsQktqNE5Db0hkRFE1VERkVVV2eEFobk00cFBnenBPU0t2cFNoMWtJZDc3eGZud3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc5ODE0CWZpbGU6U05TUyBDbGllbnRfMC4yLjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTAKcDlseHR1QkR5TzJTaUlORkhFalBHOE5CMDB2eTV3UjlPdzRhcXZYN1hMM21GZ3ljNXc1bFJ1QjBGZEZTWFVzakFNWkYwNG01TWNQanpCZUlhV0tMQ0E9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.10/snss-client_0.2.10_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE5FckNsc0xVSnpRZGVZdFlkQU1QSE5JZXlvdjlkRUQycjBKeFl3Z0VKRUhiOWdXc2RJVUJOY0FLRDV2bDZNbThYQ1grRmFIOFFha2xXL0ViVVVreUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTgxNjc2CWZpbGU6U05TUyBDbGllbnRfMC4yLjExX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTEKVy9KVHpVRkQvaHljV1o3S1VSLzZxOEFQdlNkbUZQa3lUWUNDMnBaTFE5SW5oZzMvaThmdnZqNDd5c0JFL1V5M1lEbC9telZjdjMwaTNpUjZ2TTdlRHc9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.11/snss-client_0.2.11_x64-setup.exe"
                                          }
                   }
 }
