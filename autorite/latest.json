@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.8",
-    "notes":  "Suivi des signalements animé, textes plus courts, vouvoiement.",
-    "pub_date":  "2026-11-08T21:17:18Z",
+    "version":  "0.2.10",
+    "notes":  "Suivi des signalements : un mail à chaque étape, « Pris en charge » distinct. Onglet Fichiers retiré, onglet Configuration toujours rempli. Types de menace (WebShell, RAT, cheval de Troie…). Blocage par Cloudflare reconnu.",
+    "pub_date":  "2026-11-08T23:20:12Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEVXVFQxWVFSTWdkekZsemZ0WmNFRzdlUGg3Q2d3aHVtb3FESWFBbkswNUFEL2ZSSjJxdWxZM2NRUVIvbmc4L1I5STdaQnIxWXhtNmNuRU03RHlTbUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTcyNjM0CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi44Ck5xMklMeFZ6L29MWm9WRlMyeFo2ck4rWnhoc01Da0NqQjU1Y1hhZDVGbHRINTl2dXlBK3pXWmZ4MkJDNDB0UEpMbFpBdDhyaGsreE1jYWpVaUFjRUR3PT0K",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.8/snss-autorite_0.2.8_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZERHWHhrR2d0dFpoQ0lrVzhMZDdSbHBxVkRXdDdYMDRYNThLYVJUYU90KzJ1WTAwUFNvQmJQbUlaOUlSTjExZCs3dmI1Wkp5YzcrV25xWG1IMi9hZVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTgwMDA4CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTAKeEZ3cFlXbUdvbTkwbXVsdkp2RkRkaVlXdFZyL3pjalVnNTlHeGFhWDNNM29PQ01GWnBDdzR6WUhrdzlhOHdUYi9VcGNpWVdtZDFKNUQ3VHBkWGxxRHc9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.10/snss-autorite_0.2.10_x64-setup.exe"
                                          }
                   }
 }
