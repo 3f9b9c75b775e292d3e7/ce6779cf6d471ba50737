@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.4",
-    "notes":  "Logo sombre, pour distinguer l\u0027Autorité du Client.",
-    "pub_date":  "2026-11-08T19:17:24Z",
+    "version":  "0.2.5",
+    "notes":  "Bouton « Rechercher une mise à jour » dans les paramètres ; recherche automatique toutes les heures.",
+    "pub_date":  "2026-11-08T19:34:54Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEJibVZzSVQrM0pLTjExY21hT0xoOWpOcXF0YkV4NmYyREdoRHlRYlprclpkc0tTWExNazJscGtkWXloVjRCZkZXaHpsd1RubkQyVFNyUGp4d3pOUXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTY1NDQwCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi40ClVaa1FqbTlHK1RpSVhmbUhCZDBhZmNFZW9ScVNBMDdFa2VZeWtVOGJwUDA5czlNeGlJcmJYVVZxMXV2U2FRelVMOCt1WGF3c3cyNFRZNU5aUldtMUJnPT0K",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.4/snss-autorite_0.2.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEdkODFrMGlqTkZJMFVtZzZ4WFVPZS91cTA5NjRrSWpvMFBtTytBNUhSaUpHVVhwcHVjK1hDVElQbmYyV1pZL09SYXFrQ2N3YWVYYUQ3amt5a1FDVnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTY2NDkwCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi41ClB5dkFtd09QWDIydTF4ay9USjVFL0FJK2hCOEJjT2lDZWhiYjk0UHdvQ3ZFTUlIZzQ1cERKQTRWaTgrWk1IM1lVcDRXTW43L1JLRUcwdEZYVy81a0JBPT0K",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.5/snss-autorite_0.2.5_x64-setup.exe"
                                          }
                   }
 }
