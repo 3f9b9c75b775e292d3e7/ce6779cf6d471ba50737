@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.15",
-    "notes":  "Connecteurs : PageSpeed Insights. Une carte « Connecteurs » sous les contrôles de chaque site (notes de Google sur mobile et ordinateur, Core Web Vitals des visiteurs, pistes d\u0027amélioration) ; la tuile Vitesse en profite aussi. La clé se règle dans Serveur de Gestion › Connecteurs.",
-    "pub_date":  "2026-11-09T21:01:53Z",
+    "version":  "0.2.16",
+    "notes":  "Tableaux de bord refaits : carte Actions (sauvegarde, analyse, intégrité), anneau des contrôles, chiffres animés, sites en cartes. Vocabulaire technique : SEO, Sitemap, Open Graph, LCP / INP / CLS…",
+    "pub_date":  "2026-11-09T21:45:11Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEU4bGZ5YkkzQUpkdEk5Q2JKTXltOUFwZzhxdHhhOENCdVZrU2pmbFR3ZmRTaVdjOVNpcGl6ejNpKytPQ2phWVBSNGs2Q1JsL01qb241UWNjZ0lGblEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU4MTA5CWZpbGU6U05TUyBDbGllbnRfMC4yLjE1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTUKMjVGWDlqQURIVURXaWxnbjZsMllxL3puSWtFN0ViTzNHaTlMMkpidFpJQ0Iyb21IV3JVWjNFT01jVVVCTE5lNmZXblIxVmtFZk8rZGg2MEc1R1FhQmc9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.15/snss-client_0.2.15_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEFZQzNHeXBNNDlwQWtSajJjcllLZmpld2ZraUJlOUtSd3JiSXpjRC80ZStMc1p2UzBFL2RhRUdhbjRhc2YxVEg3YUNIU0c0djA4NDhjckM3RGZRN2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjYwNzA3CWZpbGU6U05TUyBDbGllbnRfMC4yLjE2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTYKYWRsaEJoY2xkSlJ0b0RmT1lmc25qeEN1cVBLenAwcE5ZTEhxVG9IUW9WNTh5OHlQNUxSVXNkUXJmVHE5bVExR2JWSHVFR001SVdJMXRyY09LTDltRGc9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.16/snss-client_0.2.16_x64-setup.exe"
                                          }
                   }
 }
