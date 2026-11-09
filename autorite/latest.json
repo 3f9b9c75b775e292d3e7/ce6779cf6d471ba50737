@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.15",
-    "notes":  "Connecteurs : PageSpeed Insights. Une carte « Connecteurs » sous les contrôles de chaque site (notes de Google sur mobile et ordinateur, Core Web Vitals des visiteurs, pistes d\u0027amélioration) ; la tuile Vitesse en profite aussi. La clé se règle dans Serveur de Gestion › Connecteurs.",
-    "pub_date":  "2026-11-09T21:05:13Z",
+    "version":  "0.2.16",
+    "notes":  "Tableaux de bord refaits : carte Actions (sauvegarde, analyse, intégrité), anneau des contrôles, chiffres animés, sites en cartes. Vocabulaire technique : SEO, Sitemap, Open Graph, LCP / INP / CLS…",
+    "pub_date":  "2026-11-09T21:48:24Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZFBaTXVwRjA5NDA1VWlKaGJ0T3NEYkR1S3RtVUk0YUpQYUh5SG5FS1VXVWx2ZDlldlU1NWMrUXF2NlZtWm40OTBrUjBjRW82czhLWGV6aXlpeCtQVkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU4MzA5CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjE1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTUKTTh3eHFKZjQyekFpWWFZbXNaaFUwTE5EVUkyWjRuOWdtdkxLS2NTdXE2YW9mR0RvUWVBTFlaZ1FoZWtjK0g3SWNkSW1HZGNiMElFV3Y0NW0xaTc1QUE9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.15/snss-autorite_0.2.15_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE04Y0ZjWXNnNDgzclQzZDJlZzc3SVNrWHZjMjBuSW9hNWh4WXZGT3dBS3d5UEtPV2p2ZHIvT0I5VWI5OGRPeVg1VzFtelVUT09TcE9xdTJxZS9oRGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjYwOTAwCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjE2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTYKdUI2TGEzTm9KQUVGRFRsaFVpUVQvb2JqRkhqVU02dGZXQ29FN3dyQmx2c21mWEJpLzR2SlgzUXpvOEVuYTlhR2J1NU5Lc3BhVXBTTVo0U1MwdUdyQnc9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.16/snss-autorite_0.2.16_x64-setup.exe"
                                          }
                   }
 }
