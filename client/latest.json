@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.12",
-    "notes":  "Référencement : 9 nouvelles tuiles sous « Le site » (indexation, balises, plan de site, partage social, données structurées, langues, vitesse, images et liens, accès des IA).",
-    "pub_date":  "2026-11-09T00:15:43Z",
+    "version":  "0.2.13",
+    "notes":  "Les tuiles du référencement s\u0027affichent.",
+    "pub_date":  "2026-11-09T18:40:17Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEVpVkVzTFhIUnRNSWlsMHJkYUQ1MFZ1NGpWNzZiOHk5aS9hZGF2a0kwb24wWVRtVnNweEV2dHNKb2p0cVNRelg2Kzk3dUlDdHBPaGhRMU13bWZzZ0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTgzMzM5CWZpbGU6U05TUyBDbGllbnRfMC4yLjEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTIKT1RSb2pwQkhDWFZLOGc5aWIwNVptMVNMVTdwS2YwdXZZWkJmamJnejVONlRkUThoRXF5c05SOHU4Tk1yZTNPV2Z4YncxQXp3SmN4N25xV2xsTHNvRHc9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.12/snss-client_0.2.12_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEM0ZzRjU2ZLL2E2cHZSa0t1OUpMck9YaFF3Y3BadVRXWGNpWVRlUXAzNGhLUkYvUDVMOTI2RVJQYnpCeXlIbGsvSVJROXJ0OG0xdWNLcHEvTDFzalFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjQ5NjEzCWZpbGU6U05TUyBDbGllbnRfMC4yLjEzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTMKQ2pFK3RPeUp5UnpiZ1k3YjVPWnFFTkRKTkpuMzdpT2MrdE9RN2NEVUlLRWxrVDlzb3VzMHQ5OTlTTVFNT3ZNazlZSnVkUTc5SFpEOHdKYzhSL1RhQmc9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.13/snss-client_0.2.13_x64-setup.exe"
                                          }
                   }
 }
