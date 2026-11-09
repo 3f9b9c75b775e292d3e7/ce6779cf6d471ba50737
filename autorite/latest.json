@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.11",
-    "notes":  "Marquer comme normal : un point vérifié ne compte plus dans les alertes, sauf s\u0027il change. WordPress en français mieux reconnu (contrôle d\u0027intégrité). Faux positifs corrigés (liste noire anti-spam, debug.log).",
-    "pub_date":  "2026-11-08T23:51:17Z",
+    "version":  "0.2.12",
+    "notes":  "Référencement : 9 nouvelles tuiles sous « Le site » (indexation, balises, plan de site, partage social, données structurées, langues, vitesse, images et liens, accès des IA).",
+    "pub_date":  "2026-11-09T00:18:56Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEVOTDliZUgxL3RaS1UySFJadGkyY1JUZElzZFpjam1meUJFWlJtZ2s4NHRlWW5oY0RZYzR0Q084NTAraXJ0TGllUncrZWJ0a2dic1JKNXJRbUwrVndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTgxODczCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjExX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTEKK28xQWlWL2ZqajRHN2luZ3RVVTlESjVPMGdZUE5LaDBGY0hqQThtVEpxaTRSaEtWQmhtRGNSV25QUFJJT2E0VHFPZzc2elhqVjIvaXhnWlh3S24rQ3c9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.11/snss-autorite_0.2.11_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEFadlNjOHdFTGpCYU9pcXUvYUIzZnlkZDU5bmlTdlVEeStnZjFkU3B0blY4cVpIWm5hTnpOYW15d2hxSGtMdmQxNW1xNzJFMS84bXNqSUVTOUJvNGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTgzNTMyCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTIKM0VNaDZpcUpadDBtbjFhZTNlK084RHpaTCtId3Z2NFozZXM2bXNta0RSMGlOMjUrczRZTzBOK1ZDbzF6SThhajlyK1NkODVhcFAzOGxISkFSUDRVQnc9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.12/snss-autorite_0.2.12_x64-setup.exe"
                                          }
                   }
 }
