@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.14",
-    "notes":  "Référencement : les 5 tuiles principales, les autres sous « Voir plus ». La tuile du plan de site quitte « Le site » (doublon).",
-    "pub_date":  "2026-11-09T19:07:08Z",
+    "version":  "0.2.15",
+    "notes":  "Connecteurs : PageSpeed Insights. Une carte « Connecteurs » sous les contrôles de chaque site (notes de Google sur mobile et ordinateur, Core Web Vitals des visiteurs, pistes d\u0027amélioration) ; la tuile Vitesse en profite aussi. La clé se règle dans Serveur de Gestion › Connecteurs.",
+    "pub_date":  "2026-11-09T21:05:13Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEsxL3l6VXFJeVVzbU0xb0kwWFFjTnBSb3JVWG9penpEVzZFUjI4V3Q5RC9mSXJjVkM4V1hCbmxiZDNTYTFwWmxadENPUmJvNm9YNnp4MG83YlpFK3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjUxMjI0CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjE0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTQKSnltaVNIbVFIMjNhU2h2d05pRXdubVIzSXl5Tlc4clhuSXNyNmtNTjhqQklRa2xFMXgvZHQ4ZlBoNG1NYm1BNFFTZDJlazdMbGVxVnZNczJYQ05yQ2c9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.14/snss-autorite_0.2.14_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZFBaTXVwRjA5NDA1VWlKaGJ0T3NEYkR1S3RtVUk0YUpQYUh5SG5FS1VXVWx2ZDlldlU1NWMrUXF2NlZtWm40OTBrUjBjRW82czhLWGV6aXlpeCtQVkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU4MzA5CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjE1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTUKTTh3eHFKZjQyekFpWWFZbXNaaFUwTE5EVUkyWjRuOWdtdkxLS2NTdXE2YW9mR0RvUWVBTFlaZ1FoZWtjK0g3SWNkSW1HZGNiMElFV3Y0NW0xaTc1QUE9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.15/snss-autorite_0.2.15_x64-setup.exe"
                                          }
                   }
 }
