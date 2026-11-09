@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.12",
-    "notes":  "Référencement : 9 nouvelles tuiles sous « Le site » (indexation, balises, plan de site, partage social, données structurées, langues, vitesse, images et liens, accès des IA).",
-    "pub_date":  "2026-11-09T00:18:56Z",
+    "version":  "0.2.13",
+    "notes":  "Les tuiles du référencement s\u0027affichent.",
+    "pub_date":  "2026-11-09T18:43:41Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEFadlNjOHdFTGpCYU9pcXUvYUIzZnlkZDU5bmlTdlVEeStnZjFkU3B0blY4cVpIWm5hTnpOYW15d2hxSGtMdmQxNW1xNzJFMS84bXNqSUVTOUJvNGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTgzNTMyCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTIKM0VNaDZpcUpadDBtbjFhZTNlK084RHpaTCtId3Z2NFozZXM2bXNta0RSMGlOMjUrczRZTzBOK1ZDbzF6SThhajlyK1NkODVhcFAzOGxISkFSUDRVQnc9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.12/snss-autorite_0.2.12_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEtjT2QvV3BVSVh5VkFaVlROTUF0UGJRZmlUL0xGSDdjMU96dU9SUG9hYjNMWE5MZWgxODlWM3ZEUmk2Yk5ONnZhdFNoVHFqWmtxdUdpaWNENjF0MmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjQ5ODE2CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjEzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTMKRDQ0aVdLakwxRW94MEtuMDZYRkpCZjQ3MnNnUXkyVUlQK05zQm16VzZ4ci9hVVU5VW9yd1RGRWZ0c2Y1K29yL1ZGbjZJOWkvRjRBM1h4a0kzUmV5Qmc9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.13/snss-autorite_0.2.13_x64-setup.exe"
                                          }
                   }
 }
