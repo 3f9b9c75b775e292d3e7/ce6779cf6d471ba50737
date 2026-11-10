@@ -1,15 +1,15 @@
 {
-    "version":  "0.2.9",
-    "notes":  "Suivi des signalements animé, textes plus courts, vouvoiement.",
-    "pub_date":  "2026-11-08T22:28:17Z",
+    "version":  "0.2.16",
+    "notes":  "Connecteur PageSpeed Insights, tableaux de bord refaits (carte Actions, anneau, chiffres animés), vocabulaire technique (SEO, Sitemap, LCP…).",
+    "pub_date":  "2026-11-10T05:41:26Z",
     "platforms":  {
                       "darwin-aarch64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZERGcGIyTEtYWmdTUjFIcHY1bTgxQlZDV0Fza2JLemo3bHJmNVZZVjBWanFiY3o4RWU4Zzl0ejMvVzhRQ0VVeCtnZFVmZUx2ZG4wL0p4QjdJMGFuVmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc2ODk0CWZpbGU6c25zcy1jbGllbnRfMC4yLjlfdW5pdmVyc2FsLmFwcC50YXIuZ3oKcmU5eTQwc3NOcEQ3Z2pvSGd0eE1wUU9TakRzMkhBcGlhdnlsb043MGpoWGF6NnE0NmtmS3RacS9KVzlvN29RU0JCSVJ3UGpVSHYwQ2JoZnpCdFVHQXc9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.9/snss-client_0.2.9_universal.app.tar.gz"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEFWOWNjR0NmR1B0Vk4ycG8xL2NJZ0RuSlYwOE02SzlyWmpNZHMyd1RoY1BxTWNzdUFxNGFJbjR4UDZUUmJ0eFk2cVZOZDIyYXRQTkVpSGMxUEdnV2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjg5MjgyCWZpbGU6c25zcy1jbGllbnRfMC4yLjE2X3VuaXZlcnNhbC5hcHAudGFyLmd6CkZ4dXNSWU1ScXdEempEcnJ1amE1WjNzNm55RFIzRXhnR1dacEE5K3lNVmE3UWczQ0kzekZwRVZsMzBIT2VVZ1hSWHIwVm15d0dqbHA1UmRMY0VNR0N3PT0K",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.16/snss-client_0.2.16_universal.app.tar.gz"
                                          },
                       "darwin-x86_64":  {
-                                            "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZERGcGIyTEtYWmdTUjFIcHY1bTgxQlZDV0Fza2JLemo3bHJmNVZZVjBWanFiY3o4RWU4Zzl0ejMvVzhRQ0VVeCtnZFVmZUx2ZG4wL0p4QjdJMGFuVmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc2ODk0CWZpbGU6c25zcy1jbGllbnRfMC4yLjlfdW5pdmVyc2FsLmFwcC50YXIuZ3oKcmU5eTQwc3NOcEQ3Z2pvSGd0eE1wUU9TakRzMkhBcGlhdnlsb043MGpoWGF6NnE0NmtmS3RacS9KVzlvN29RU0JCSVJ3UGpVSHYwQ2JoZnpCdFVHQXc9PQo=",
-                                            "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.9/snss-client_0.2.9_universal.app.tar.gz"
+                                            "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEFWOWNjR0NmR1B0Vk4ycG8xL2NJZ0RuSlYwOE02SzlyWmpNZHMyd1RoY1BxTWNzdUFxNGFJbjR4UDZUUmJ0eFk2cVZOZDIyYXRQTkVpSGMxUEdnV2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjg5MjgyCWZpbGU6c25zcy1jbGllbnRfMC4yLjE2X3VuaXZlcnNhbC5hcHAudGFyLmd6CkZ4dXNSWU1ScXdEempEcnJ1amE1WjNzNm55RFIzRXhnR1dacEE5K3lNVmE3UWczQ0kzekZwRVZsMzBIT2VVZ1hSWHIwVm15d0dqbHA1UmRMY0VNR0N3PT0K",
+                                            "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.16/snss-client_0.2.16_universal.app.tar.gz"
                                         }
                   }
 }
