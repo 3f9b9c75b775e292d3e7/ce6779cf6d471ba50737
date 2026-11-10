@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.18",
-    "notes":  "Actions proposées : quarantaine d\u0027un fichier malveillant ou d\u0027une archive exposée (hors du dossier web, annulable), blocage d\u0027IP d\u0027attaquant par .htaccess, avec simulation et confirmation.",
-    "pub_date":  "2026-11-10T18:58:16Z",
+    "version":  "0.2.19",
+    "notes":  "Onglet Actions : listes des IP bloquées (Débloquer) et des fichiers en quarantaine (Remettre en place) ; une action annulée peut être refaite.",
+    "pub_date":  "2026-11-10T20:01:13Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEpoOHpUZlVLcXpwM0pGMjdMWTNCSGZDcm9WVnUwY1VGR2pFZldEays1cWRUTUErMEdpQis4WXNFeDNRZDFiVVNYVWlucmpiR0JpK3ZsRlFWdHlrbEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzM3MDkyCWZpbGU6U05TUyBDbGllbnRfMC4yLjE4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTgKS09POEplR1NPdmF0TFVCZnhtcHNDZmZRNlVkRkNRb3RFS3RDNXdkWmVhdStOVXFWYkpNOTRkQzFjNGt4ZFg2dGU3Mk91TGc3TW5OamtxWFIwMm5wQUE9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.18/snss-client_0.2.18_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZFBSUUNoYmM3aDBHbEtJNWFWMmVEQmdodmRkSlROVkJxc0pkQnYyUU9uOHFabmZTK1kxazJhYlMwc1A3UWYrZWZMaldTWk0ycDN3WDJ2U1k5RVJYTWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQwODY5CWZpbGU6U05TUyBDbGllbnRfMC4yLjE5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTkKVVl5dDlmQXIvMGtGUjFudGdVK3FjeGdJSllFWXJMYWlEY2p1VmYzamE3UVVyWVF0ak5nRUFqbXFHN1hwUzdjYWJVZDBXREZBVDFxV05ZRTZMR0FZQnc9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.19/snss-client_0.2.19_x64-setup.exe"
                                          }
                   }
 }
