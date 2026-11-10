@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.17",
-    "notes":  "Comptes admin et exports : nouvel administrateur du site, archives et dumps SQL téléchargeables, téléchargements d\u0027archives repérés dans les logs.",
-    "pub_date":  "2026-11-10T16:27:59Z",
+    "version":  "0.2.18",
+    "notes":  "Actions proposées : quarantaine d\u0027un fichier malveillant ou d\u0027une archive exposée (hors du dossier web, annulable), blocage d\u0027IP d\u0027attaquant par .htaccess, avec simulation et confirmation.",
+    "pub_date":  "2026-11-10T19:01:33Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEhnczl4ZGJDWS9hS2h5R3ZrbUdVQ1JmNmJ0RzB2Q1lFMTBTWGZHcVFjcC83a2VOUzNmbTB6d2ZJSW5HOFVjYmhsOHNsMUw1Nm9GbkZMajhtMVRyQ0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzI4MDc0CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjE3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTcKTWdFZ1lJRHlOc2xuTTRKNWEzRlUyMEZNdmY1N1ZUUmU5U0xKWldZazlxc1JyZ3BGamF4dzF6aEFONFlVVWJ4bHVna25iUW1iZ3F1M2RaMVRPVUlwQUE9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.17/snss-autorite_0.2.17_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZERzVXpiazlWZ3JLZEtZUGZwU0hpaGp3d1hiakNMOUpMalFEM1AzT1ZGUGRDT0xlNnl5dURzajZ1TnhXbkpRQWs0S2htQk1NbTZoRURjNDZ2MnFWNVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzM3Mjg4CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjE4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTgKQ2pKZWhzem1Gdk92dGRuZW82SC93cGRqS1c4N3M1T3VQK09hY1A4bkd4Y3V1bVBmT0E5VVMzZlFINHVBUkU5Y3hnRU1FYlhWQnJNNmtWVUYvc21TQlE9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.18/snss-autorite_0.2.18_x64-setup.exe"
                                          }
                   }
 }
