@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.23",
-    "notes":  "Comptes : une adresse mail par compte pour recevoir les alertes.",
-    "pub_date":  "2026-11-11T14:50:37Z",
+    "version":  "0.2.25",
+    "notes":  "Connecteur MCP : Claude consulte et agit dans l\u0027Autorité avec votre compte (Paramètres du compte).",
+    "pub_date":  "2026-11-11T16:25:05Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE1zWk9UOXAydDhIaTJtYXpXYS9OODNISGc0SnJLR2UraG9kQ3FBdG1PazFtZ2JZRmRzeEYzRWlHS29YZjh2ekdiSVNQY2haWm1YQTAxS001dkQwYUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA4NjMzCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjIzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjMKK0pJcFp2dzErNHNZQm5xSU1IaWY1bm5ERXoxQnlsblA0VVJ6MWNCSU5weWRTVlNxeG0yUURFd1RCUzArMEsvY0xzQ2Zoc2gvak1RNWFUdWRSVzFJQkE9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.23/snss-autorite_0.2.23_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEVMdDJnSXRVNTZ2R204Q29Kd2x0RERZaEY5UzdmVlJLb29vUjQ4a0VXWU85OEZiSFZ1Mmx0OEwwM2xIaUxZbFdITFFoejFlaUMrdGxFNnp2eC93aEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDE0MzAxCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjI1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjUKbnk5d3ZxaDNBT0xsYm5WcU9CQ3NYb1ZNM2VVeCt4bm45WnluK0FMMk0vTU5aZ21wSnZrenlrcXVzVC92amZrTFM2NDB6Z092ZTdZc2JRZmJHYmxzRHc9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.25/snss-autorite_0.2.25_x64-setup.exe"
                                          }
                   }
 }
