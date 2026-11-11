@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.23",
-    "notes":  "Comptes : une adresse mail par compte pour recevoir les alertes.",
-    "pub_date":  "2026-11-11T14:46:52Z",
+    "version":  "0.2.24",
+    "notes":  "Actions : suppression définitive d\u0027un fichier en quarantaine (Autorité), historique « Supprimé ».",
+    "pub_date":  "2026-11-11T17:35:38Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZExCVjBlNUJ5ek9NSDltMEVzN1ZZUkY3YzN0MmxwSGhNSTdTdFE5T0g1a1I4OEFUcTA4V1owUVo5Z3AyazZiZ3lCa0RQZDR0ZUNZWjhoNEMyNXFpOWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA4NDA4CWZpbGU6U05TUyBDbGllbnRfMC4yLjIzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjMKYXNtTU9qQmVyT09oclNjUVRrQ1lhVHQ5K2RSU3FONTNHd3JPYUF4MTd3MmtHcW5OaWJ0aWwrMU45KzFLRnRDZ3JveFpTQ0ZrbVJwdU5mbEJrT0djQlE9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.23/snss-client_0.2.23_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEtwZGFtUmpJKzFPWXRWQWpSUGd4Zk5TbkVWZTdZbEtzdXlVaEpJbS84ZFRKcEx0cWlnSEhrcENkcGlvalhLd0d3QTZFOVpXeks0QlJ1UXUzT3l1OFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDE4NTM0CWZpbGU6U05TUyBDbGllbnRfMC4yLjI0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjQKT2VxUHdpa25Zd3lSNktzQkpxK1VhZzRzaGFKNlR2WWlyQWxmSjg1bUY4UEh0T1pBZFVzN0J4T0JiSFgyb2hqV2dXVVFpSFZscGFCQTk0aHZjUjgzQkE9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.24/snss-client_0.2.24_x64-setup.exe"
                                          }
                   }
 }
