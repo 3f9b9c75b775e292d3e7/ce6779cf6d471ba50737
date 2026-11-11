@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.26",
-    "notes":  "Connecteur MCP : l\u0027ajout à Claude Desktop vise le bon dossier de réglages.",
-    "pub_date":  "2026-11-11T16:57:34Z",
+    "version":  "0.2.24",
+    "notes":  "Actions : suppression définitive d\u0027un fichier en quarantaine (Autorité), historique « Supprimé ».",
+    "pub_date":  "2026-11-11T17:40:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEVqTTdRT082MkpTRGErTlpEcnNmVkkvU3lTUUphUVowakFyZy9qV044YjdXTGhiUXRYc09XQ3lsUXJUNHdSL0ExN0t0SEhLbGRJN1FrdDVhVjZDT2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDE2MjUwCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjI2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjYKdHBaSmcvYnhyYVYwVXcwVSt5bXNEWXhyQmE1U0RtUGJzN21uSEhadHkyc1ZldE5BZVhQOHFoYTBYa2p6UytNbGpLWkp5UkRUUmkvNUxVeHUva0JwQ2c9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.26/snss-autorite_0.2.26_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEFVVUJibTNYR1ZNOE1PaGdFVzNsN2gxRW9HY0lnZzJmcXk2STJpTnMwSkUxOHJtRURCVFN2MzZKYzAwZHVtdFpWbUpweGdWa1crc091QThXdXV1SEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDE4Nzk2CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjI0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjQKSkdOYnE0TVVBbm5vMlhVMk5OR1hxZ3N1UEczRHIwQmh1blZPMFRWeEVMbjZuNVpLVGVaMytoNXQyakxPbW1pZUFIUEFFM1NGUEhYRnkrMy9sZjBXQUE9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.24/snss-autorite_0.2.24_x64-setup.exe"
                                          }
                   }
 }
