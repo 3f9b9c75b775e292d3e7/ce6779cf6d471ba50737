@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.22",
-    "notes":  "Facturation : vos coordonnées et celles du client sur les factures, mails de facture et reçus SubNex, nouvelle facture ponctuelle.",
-    "pub_date":  "2026-11-11T13:16:44Z",
+    "version":  "0.2.23",
+    "notes":  "Comptes : une adresse mail par compte pour recevoir les alertes.",
+    "pub_date":  "2026-11-11T14:46:52Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZFBlaENWSTVaZGRJRlJ6WERodVhWUlpqeDgrUmVOQ3pQWlhPTnIwNkF4cVpFS3FsWVFlWkY3SlovUUNEMXduZ3VyRHYxR3M1eitYaENMV2FIRDZZc0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDAzMDAwCWZpbGU6U05TUyBDbGllbnRfMC4yLjIyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjIKZERmazkrUGxsR0lVOUlLa0J1dTMrOXBBa09hRHgrMlFXVVllczFwMzF4YjFxRGNQNnVFRFlabHhJOGZZbXltRFlMcUtZTkErc1A2TGNnazVlVnFNQ2c9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.22/snss-client_0.2.22_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZExCVjBlNUJ5ek9NSDltMEVzN1ZZUkY3YzN0MmxwSGhNSTdTdFE5T0g1a1I4OEFUcTA4V1owUVo5Z3AyazZiZ3lCa0RQZDR0ZUNZWjhoNEMyNXFpOWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA4NDA4CWZpbGU6U05TUyBDbGllbnRfMC4yLjIzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjMKYXNtTU9qQmVyT09oclNjUVRrQ1lhVHQ5K2RSU3FONTNHd3JPYUF4MTd3MmtHcW5OaWJ0aWwrMU45KzFLRnRDZ3JveFpTQ0ZrbVJwdU5mbEJrT0djQlE9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.23/snss-client_0.2.23_x64-setup.exe"
                                          }
                   }
 }
