@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.20",
-    "notes":  "Facturation : abonnements et factures de chaque site (page Facturation sous Comptes, onglet Facturation d\u0027une entreprise).",
-    "pub_date":  "2026-11-11T00:34:53Z",
+    "version":  "0.2.21",
+    "notes":  "Facturation refaite : formule de chaque site, factures, et fenêtre « Payer » qui ouvre la page de paiement sécurisée.",
+    "pub_date":  "2026-11-11T12:32:07Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEtTVzNMSDc3UFRiUFk0WmV4NXFHTVNaT0lFL0lRRFYrQXA4ZE4yK1FUWlZyaXpleVh6VVhDSlFMQm5Od1JqUDJuM2FLU25wWTgwdGJHQTFRTlVkQ0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzU3Mjg4CWZpbGU6U05TUyBDbGllbnRfMC4yLjIwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjAKYVpFR2UrVko4NFZma1BQSFZBSmJvRkRsZXJxM1lTblJTa0NxVFFJMU9sQWI2T2UzN1FSWGczcDNySjZwdTFEK2NJTlpEMWZNcGNiNXcrOTFaRmRCQmc9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.20/snss-client_0.2.20_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZFBUcnFTb2x2M3VlaHBYdFFKV3JwWmlFS0xpYmJpUVRZcTNQdGNuWHFadTRIbjgvdkUycUw0Q1N1Ukp0NUpDVW5qR2pGcEVLcDBkMStrcSsrZmZLQlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDAwMzIzCWZpbGU6U05TUyBDbGllbnRfMC4yLjIxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjEKRUZpQTJsUmtWaEtuSkMwbnJ1RnBrUGNLZEs2eVBNazlIcW9kcHh4VlJSaVArTTRwbWxJV3FTOWNBNnNSL1Z0T25BeC94TTVVQlBSdVhTU2ZveXVNQUE9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.21/snss-client_0.2.21_x64-setup.exe"
                                          }
                   }
 }
