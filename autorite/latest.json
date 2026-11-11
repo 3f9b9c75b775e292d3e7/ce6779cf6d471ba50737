@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.24",
-    "notes":  "Actions : suppression définitive d\u0027un fichier en quarantaine (Autorité), historique « Supprimé ».",
-    "pub_date":  "2026-11-11T17:40:00Z",
+    "version":  "0.2.27",
+    "notes":  "Actions : suppression définitive d\u0027un fichier en quarantaine, avec copie gardée chez SubNex.",
+    "pub_date":  "2026-11-11T17:44:39Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEFVVUJibTNYR1ZNOE1PaGdFVzNsN2gxRW9HY0lnZzJmcXk2STJpTnMwSkUxOHJtRURCVFN2MzZKYzAwZHVtdFpWbUpweGdWa1crc091QThXdXV1SEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDE4Nzk2CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjI0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjQKSkdOYnE0TVVBbm5vMlhVMk5OR1hxZ3N1UEczRHIwQmh1blZPMFRWeEVMbjZuNVpLVGVaMytoNXQyakxPbW1pZUFIUEFFM1NGUEhYRnkrMy9sZjBXQUE9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.24/snss-autorite_0.2.24_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEptM0NXdk1NVDR4TVFLTFBwR0xhTkhjOUtVQXFSbU1wQTdLM3p4QjhIYmY0WGtTUExKTit0ZUwveGZIZzNYVTFaL0lmczE0dkg2SXpSOXgvUmptQ2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDE5MDc0CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjI3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjcKcSthZkJ0QjM1cmlRay8zbWpQYlJPRDk2Z2ViZUozZmxyTy9scEZBOFRMMVJRQzBmWEtJdTh0YjJwSGJPSEtOdjhCOFd6UTJ2ZXVVSk0wS200ZHIyRFE9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.27/snss-autorite_0.2.27_x64-setup.exe"
                                          }
                   }
 }
