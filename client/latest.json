@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.21",
-    "notes":  "Facturation refaite : formule de chaque site, factures, et fenêtre « Payer » qui ouvre la page de paiement sécurisée.",
-    "pub_date":  "2026-11-11T12:32:07Z",
+    "version":  "0.2.22",
+    "notes":  "Facturation : vos coordonnées et celles du client sur les factures, mails de facture et reçus SubNex, nouvelle facture ponctuelle.",
+    "pub_date":  "2026-11-11T13:16:44Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZFBUcnFTb2x2M3VlaHBYdFFKV3JwWmlFS0xpYmJpUVRZcTNQdGNuWHFadTRIbjgvdkUycUw0Q1N1Ukp0NUpDVW5qR2pGcEVLcDBkMStrcSsrZmZLQlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDAwMzIzCWZpbGU6U05TUyBDbGllbnRfMC4yLjIxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjEKRUZpQTJsUmtWaEtuSkMwbnJ1RnBrUGNLZEs2eVBNazlIcW9kcHh4VlJSaVArTTRwbWxJV3FTOWNBNnNSL1Z0T25BeC94TTVVQlBSdVhTU2ZveXVNQUE9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.21/snss-client_0.2.21_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZFBlaENWSTVaZGRJRlJ6WERodVhWUlpqeDgrUmVOQ3pQWlhPTnIwNkF4cVpFS3FsWVFlWkY3SlovUUNEMXduZ3VyRHYxR3M1eitYaENMV2FIRDZZc0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDAzMDAwCWZpbGU6U05TUyBDbGllbnRfMC4yLjIyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjIKZERmazkrUGxsR0lVOUlLa0J1dTMrOXBBa09hRHgrMlFXVVllczFwMzF4YjFxRGNQNnVFRFlabHhJOGZZbXltRFlMcUtZTkErc1A2TGNnazVlVnFNQ2c9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.22/snss-client_0.2.22_x64-setup.exe"
                                          }
                   }
 }
