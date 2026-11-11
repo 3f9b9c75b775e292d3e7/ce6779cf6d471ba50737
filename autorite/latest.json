@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.19",
-    "notes":  "Onglet Actions : listes des IP bloquées (Débloquer) et des fichiers en quarantaine (Remettre en place) ; une action annulée peut être refaite.",
-    "pub_date":  "2026-11-10T20:04:38Z",
+    "version":  "0.2.20",
+    "notes":  "Facturation : abonnements et factures de chaque site (page Facturation sous Comptes, onglet Facturation d\u0027une entreprise).",
+    "pub_date":  "2026-11-11T00:38:31Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZER2Vm5wRG9ibERxT0pHNlI4UWx1YlpMN1gwR1djcGRQSjdGVE1SMCtxOStGVlZ1WXpjRHFJNkdzRk9ZdWRuQkZsRm9Hb0lpdmZxN1Rkd2JpMU9BWWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQxMDczCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjE5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTkKaVZtY292emlZdUllY0VlcVFjS1YwK2ZuYnltaGNTZWRROWZ4VXl0ODNNQXJ3aDFRWEZuT2xkdG5hYWtsZEgvdnFuMGVVM1FhQTlWTjA3VUtGUXM4Q2c9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.19/snss-autorite_0.2.19_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEEzMUNmS21ob3hNNXRKTTE4aUdXMmdIN2djSlV3R2tLN1BmOHhVWWlZN2k3bVQrYUlYVVNzdXM5c2RQcnZERS8vbTQxNjRSVlRKRjdHNTZIRWJnN2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzU3NTA3CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjIwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjAKTjAvZDErVFZIVi9DQUxCZ1NGZElFemtwbnV3WWYrdXlnbjEyM0Iwb3BSMkhGNmM1K1MzdTc1OEM5bWhVMUFveVBZMDc3RFRHd00vOHFNREY3S3dKQmc9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.20/snss-autorite_0.2.20_x64-setup.exe"
                                          }
                   }
 }
