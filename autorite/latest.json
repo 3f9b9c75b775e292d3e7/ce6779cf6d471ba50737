@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.29",
-    "notes":  "Onglet Fichiers : le dossier ouvert reste affiché pendant les relectures.",
-    "pub_date":  "2026-11-11T19:26:45Z",
+    "version":  "0.2.30",
+    "notes":  "Connecteurs : Search Console (clics, requêtes, indexation de l\u0027accueil).",
+    "pub_date":  "2026-11-11T20:29:28Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE5VbWRlenh1WUVjVnZzU05WUFpqU01rVkRuTWN6U3RMaVVoNHNxZUIzdE95dUNCSXphZUw2K2tRdnlqNDR1RFNHWFdBTTBiT3RSK1B5R3Axb1kwT1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI1MjAxCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjI5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjkKRGNXeE0yNllucVpRaVpLRjc4b3hJdDczUmFKSjdMc0hWeWtLcU1qM1BsTS9uamNnSHcxSkpYSU55d3g3ZzN0ZENhL21kSWdPNSsxTURLdS9vK2VWRHc9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.29/snss-autorite_0.2.29_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE1xUmFOQzJ4MHJMMTVFaVorVlY4YXVwSFF4R3hWRG9yK2FydmY3QlBWbzhkNkdIZmV2MnlGNWZyQ2hsY1NQL1JVZmlkcG41WHJvRU4yeW01NHh0bHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI4OTY0CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjMwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMzAKRWxaaDYxcGpzbnNhUXppaWZMeFYyYlVwNkxCVHJidzNpWFNoWnd6c0hSbGlqZ1o4T2VCNEN4TWhMamExVHBLTGgxSzlmOTJsNW9ibkIxWHZUeVNyQ3c9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.30/snss-autorite_0.2.30_x64-setup.exe"
                                          }
                   }
 }
