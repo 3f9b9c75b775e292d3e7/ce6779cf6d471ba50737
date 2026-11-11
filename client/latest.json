@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.24",
-    "notes":  "Actions : suppression définitive d\u0027un fichier en quarantaine (Autorité), historique « Supprimé ».",
-    "pub_date":  "2026-11-11T17:35:38Z",
+    "version":  "0.2.30",
+    "notes":  "Connecteurs : Search Console (clics, requêtes, indexation de l\u0027accueil).",
+    "pub_date":  "2026-11-11T20:24:56Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEtwZGFtUmpJKzFPWXRWQWpSUGd4Zk5TbkVWZTdZbEtzdXlVaEpJbS84ZFRKcEx0cWlnSEhrcENkcGlvalhLd0d3QTZFOVpXeks0QlJ1UXUzT3l1OFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDE4NTM0CWZpbGU6U05TUyBDbGllbnRfMC4yLjI0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjQKT2VxUHdpa25Zd3lSNktzQkpxK1VhZzRzaGFKNlR2WWlyQWxmSjg1bUY4UEh0T1pBZFVzN0J4T0JiSFgyb2hqV2dXVVFpSFZscGFCQTk0aHZjUjgzQkE9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.24/snss-client_0.2.24_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE53VFR3TXV4a01JUnU5bGI3TW0rT0JMUmZlU09VcnYwRWd4cFpOZzlTMmdGMlNWd0x2ZXkyN1U5c0NERGRQcjlER2pIL01acWtKMHdSQWZBVDVpdFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI4NjkyCWZpbGU6U05TUyBDbGllbnRfMC4yLjMwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMzAKQTJBUDVSVGNHMnptaGJsa1V0cTdLanRBZjd0TmY2b1ZjSlI1YkdGRmsyU3BrTS9va1NJM2NNRnppQWJrWElVNnNyRk11bmVpWFU4enMrWkwrYjR1Q0E9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.30/snss-client_0.2.30_x64-setup.exe"
                                          }
                   }
 }
