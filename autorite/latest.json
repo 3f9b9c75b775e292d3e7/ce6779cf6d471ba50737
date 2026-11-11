@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.22",
-    "notes":  "Facturation : vos coordonnées et celles du client sur les factures, mails de facture et reçus SubNex, nouvelle facture ponctuelle.",
-    "pub_date":  "2026-11-11T13:20:28Z",
+    "version":  "0.2.23",
+    "notes":  "Comptes : une adresse mail par compte pour recevoir les alertes.",
+    "pub_date":  "2026-11-11T14:50:37Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE5yS2V5UUNYU09VdWJXeW4yMXNRcHcyaTlSQlhUZ2EvT2tRYXR6SHZDOExBMUxiLzlaRDJRMmJoaWFQc01qQjNGVExDZFpoVDdic3FYN3ZzS1ozUGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDAzMjI1CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjIyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjIKYS9mTFpSZjdPUHBrQjg5L1FFSHdidllIelVySnNOaURwRHAyWjZWRHdqMURIQnJWb0t5NnZWWUZxdVJXWWpSNDRBOXBuMkNkVUZhdlVRSVBKVjhXQlE9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.22/snss-autorite_0.2.22_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE1zWk9UOXAydDhIaTJtYXpXYS9OODNISGc0SnJLR2UraG9kQ3FBdG1PazFtZ2JZRmRzeEYzRWlHS29YZjh2ekdiSVNQY2haWm1YQTAxS001dkQwYUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA4NjMzCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjIzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjMKK0pJcFp2dzErNHNZQm5xSU1IaWY1bm5ERXoxQnlsblA0VVJ6MWNCSU5weWRTVlNxeG0yUURFd1RCUzArMEsvY0xzQ2Zoc2gvak1RNWFUdWRSVzFJQkE9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.23/snss-autorite_0.2.23_x64-setup.exe"
                                          }
                   }
 }
