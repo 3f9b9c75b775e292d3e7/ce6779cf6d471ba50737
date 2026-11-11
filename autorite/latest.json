@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.21",
-    "notes":  "Facturation refaite : formule de chaque site, factures, et fenêtre « Payer » qui ouvre la page de paiement sécurisée.",
-    "pub_date":  "2026-11-11T12:35:40Z",
+    "version":  "0.2.22",
+    "notes":  "Facturation : vos coordonnées et celles du client sur les factures, mails de facture et reçus SubNex, nouvelle facture ponctuelle.",
+    "pub_date":  "2026-11-11T13:20:28Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEtQMTd6ZWE0ZlluL3pPbDRTWFFpNWE3NDBabjEreHI3cVNIa0hySmlsblRYNDdBT1RYTFRqMkN4Q1JwRmNBSlkwTGZCY1JmWXRZVjRYMFZvMTFEMmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDAwNTM2CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjIxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjEKUW51TTBpVm9XYTYzMERCbGJQRmRrMmhLN1JFeHdvRmlwRmdoRmdrY2lTS3RKcmdSbk5qbXdmRG9vQUpEWVRvWm1URHQ2M3VWeFBVc2tUeDJ1Z1VDQ3c9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.21/snss-autorite_0.2.21_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE5yS2V5UUNYU09VdWJXeW4yMXNRcHcyaTlSQlhUZ2EvT2tRYXR6SHZDOExBMUxiLzlaRDJRMmJoaWFQc01qQjNGVExDZFpoVDdic3FYN3ZzS1ozUGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDAzMjI1CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjIyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMjIKYS9mTFpSZjdPUHBrQjg5L1FFSHdidllIelVySnNOaURwRHAyWjZWRHdqMURIQnJWb0t5NnZWWUZxdVJXWWpSNDRBOXBuMkNkVUZhdlVRSVBKVjhXQlE9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.22/snss-autorite_0.2.22_x64-setup.exe"
                                          }
                   }
 }
