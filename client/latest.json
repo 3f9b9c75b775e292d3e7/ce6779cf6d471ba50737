@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.32",
-    "notes":  "Version Extended",
-    "pub_date":  "2026-11-15T00:10:42Z",
+    "version":  "0.2.33",
+    "notes":  "Version Extended : illustrations corrigées sur Mac",
+    "pub_date":  "2026-11-15T01:20:44Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE9HSTgvYVh3d1B0U0ZISnp5WTRkN3JXK1JTQnpiQlZDMXdaemx3QXZZZnpsYkFKM2hYQlNLT2t0SDJQZjNvcEw5emI3TWFIcjJSQmpmSGFFZ2NBN0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzAxNDM4CWZpbGU6U05TUyBDbGllbnRfMC4yLjMyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMzIKcW9RSm02enFoeHA5dlFTZ1BGazJkbEQ0NVdLQTc4cys0UW1SR2FyaGVoa2lDaEpGY1k0UFZReEZaZkd2UTN3SXBXUzZZbURNa1VaSU5jbjdzaE9ZRHc9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.32/snss-client_0.2.32_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEl4ZFF1V0FXcnZxcnZhb09yNUVHOFJ2Rlhla1BEa1p3U25SL2FZTkVhUklzTU5ZUkdLS2lPZ3BSc205a0l5My9oSUxuSWtmU3BnOHRoM1RJVlYrZ1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzA1NjQwCWZpbGU6U05TUyBDbGllbnRfMC4yLjMzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMzMKL04xbnlFOWRsMXR6MUlZU0tMaEl5UFlRV2QvcmE0YUhuU0NUbGhZeCt3RjRnWFFvVTN3TEVwZCtQbk1XaW9jcjkzUUJ1OWdIa1lSVGpuVDVWakM2QkE9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.33/snss-client_0.2.33_x64-setup.exe"
                                          }
                   }
 }
