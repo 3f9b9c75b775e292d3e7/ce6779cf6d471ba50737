@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.31",
-    "notes":  "Serveur de Gestion : connecteurs regroupés dans une carte compacte.",
-    "pub_date":  "2026-11-11T20:34:43Z",
+    "version":  "0.2.32",
+    "notes":  "Version Extended",
+    "pub_date":  "2026-11-15T00:16:24Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEc1bU5tc2Vob2NWMVBRR3lyMzZWeWpROTVtQVR2a0QyQk9LY0IwMEJWU0xWZXZTVkt0K2o3b0hoWUFUS0RoM3hWWTB5NHYzRkdNL05hUWJLRE5mK1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI5Mjc5CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjMxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMzEKa1pRUDRBU2sySnVRcWYzRXdFOUh3azJSQTFFWWg2V00xbUdaUmVJUStIQXZoVXpyUjVGUmZiNUd6MHFRMVpqak5RTFVqV1ZCOTMwN09PRlBmaktmQkE9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.31/snss-autorite_0.2.31_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEVpcUJwTFNmYnZKOEgva09LWEk5Tk10VjJKV0Q5TXRWZkhsc2FWOWkvdmphOG5WL0wyZ3poMzFjbzZJcUdjTGpGcS91KzZBRktFRUdqQVJkZFUzWXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzAxNzgwCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjMyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMzIKbVROWGs5TlN4bzJPaEdLVHI2L2RnN2tvTmp3QXdIRW1HejZlZHdRQzZEU1FBeHV3RjJzUWh6MEhOeG1NeUlEdk11RlY3RXhQaWFVMjF0WjRCSHlkQVE9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.32/snss-autorite_0.2.32_x64-setup.exe"
                                          }
                   }
 }
