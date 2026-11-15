@@ -1,15 +1,15 @@
 {
-    "version":  "0.2.32",
-    "notes":  "Version Extended",
-    "pub_date":  "2026-11-15T00:24:23Z",
+    "version":  "0.2.33",
+    "notes":  "Version Extended : illustrations corrigées sur Mac",
+    "pub_date":  "2026-11-15T01:33:27Z",
     "platforms":  {
                       "darwin-aarch64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE4wRmZjQTJoTVhxdFFCUjM2WjZXUEFBcWhsUEpNYWF5bHJtUzZJMFJZSUhBM2ZXOTVkWlNENm9rTDBqYWQ5WjFmZ2drRFF3QUxMaEgrbVZmYi92ZXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzAyMjU5CWZpbGU6c25zcy1jbGllbnRfMC4yLjMyX3VuaXZlcnNhbC5hcHAudGFyLmd6Ci9yb2hnOEdPT3c5Ylo0c09wVzFiOUNEWktWb3lJanNwMGFVeVdhaDlQVmYxSkNMamx3azlSTnJDWmRlMTB3YXVxRDlCQlpOYkh5NVBEN2xTdW5pZEJnPT0K",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.32/snss-client_0.2.32_universal.app.tar.gz"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE05bUpFWHdsVjM3SlFIT3dZVUQ3a2cyWlpjYklrTW10Q2YrQnl5aW1zWS9Ta1hlejhzUGR2KzJSWkYrWFdhdDBrS1BoMkVKT3VNSFRmRFhBbGpYd2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzA2NDAyCWZpbGU6c25zcy1jbGllbnRfMC4yLjMzX3VuaXZlcnNhbC5hcHAudGFyLmd6Ck5pejVDVHlBeE1Oc3AxRHFhbzBvRWVhTWxtd0FpNmhxT1gzTFM0SEtjbnBYbzYyb0ZrTmt4cVJ1c1RTT0pNZWZBazB5UFptSXQ4aFB2MzRJYUhMS0RnPT0K",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.33/snss-client_0.2.33_universal.app.tar.gz"
                                          },
                       "darwin-x86_64":  {
-                                            "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE4wRmZjQTJoTVhxdFFCUjM2WjZXUEFBcWhsUEpNYWF5bHJtUzZJMFJZSUhBM2ZXOTVkWlNENm9rTDBqYWQ5WjFmZ2drRFF3QUxMaEgrbVZmYi92ZXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzAyMjU5CWZpbGU6c25zcy1jbGllbnRfMC4yLjMyX3VuaXZlcnNhbC5hcHAudGFyLmd6Ci9yb2hnOEdPT3c5Ylo0c09wVzFiOUNEWktWb3lJanNwMGFVeVdhaDlQVmYxSkNMamx3azlSTnJDWmRlMTB3YXVxRDlCQlpOYkh5NVBEN2xTdW5pZEJnPT0K",
-                                            "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.32/snss-client_0.2.32_universal.app.tar.gz"
+                                            "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE05bUpFWHdsVjM3SlFIT3dZVUQ3a2cyWlpjYklrTW10Q2YrQnl5aW1zWS9Ta1hlejhzUGR2KzJSWkYrWFdhdDBrS1BoMkVKT3VNSFRmRFhBbGpYd2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzA2NDAyCWZpbGU6c25zcy1jbGllbnRfMC4yLjMzX3VuaXZlcnNhbC5hcHAudGFyLmd6Ck5pejVDVHlBeE1Oc3AxRHFhbzBvRWVhTWxtd0FpNmhxT1gzTFM0SEtjbnBYbzYyb0ZrTmt4cVJ1c1RTT0pNZWZBazB5UFptSXQ4aFB2MzRJYUhMS0RnPT0K",
+                                            "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.33/snss-client_0.2.33_universal.app.tar.gz"
                                         }
                   }
 }
