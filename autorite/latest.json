@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.32",
-    "notes":  "Version Extended",
-    "pub_date":  "2026-11-15T00:16:24Z",
+    "version":  "0.2.33",
+    "notes":  "Version Extended : illustrations corrigées sur Mac",
+    "pub_date":  "2026-11-15T01:27:52Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEVpcUJwTFNmYnZKOEgva09LWEk5Tk10VjJKV0Q5TXRWZkhsc2FWOWkvdmphOG5WL0wyZ3poMzFjbzZJcUdjTGpGcS91KzZBRktFRUdqQVJkZFUzWXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzAxNzgwCWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjMyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMzIKbVROWGs5TlN4bzJPaEdLVHI2L2RnN2tvTmp3QXdIRW1HejZlZHdRQzZEU1FBeHV3RjJzUWh6MEhOeG1NeUlEdk11RlY3RXhQaWFVMjF0WjRCSHlkQVE9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.32/snss-autorite_0.2.32_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZEJFZlMrVXNKTzM5ak1DNlZSSHA5ekJrT2Z2MmxIYTRWeTdRTGhmVXp2emlhaVVuV0tDRDdaa1lMRDAxZlhuOVRudjZmMjA0dUR0blFENFVCT1orc0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzA2MDY4CWZpbGU6U05TUyBBdXRvcml0w6lfMC4yLjMzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMzMKUkxDNjJZZjdnSTBLTXNoRmkrWjNUalp4dFNvdzhlODVMalBtL0pndDdqdk1yWU1Id3JzOUYzUmhlUm9CM1Q4M1JxK3YwUXNsaXpOWE94Q090TkhVQ1E9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/autorite-v0.2.33/snss-autorite_0.2.33_x64-setup.exe"
                                          }
                   }
 }
