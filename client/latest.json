@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.30",
-    "notes":  "Connecteurs : Search Console (clics, requêtes, indexation de l\u0027accueil).",
-    "pub_date":  "2026-11-11T20:24:56Z",
+    "version":  "0.2.32",
+    "notes":  "Version Extended",
+    "pub_date":  "2026-11-15T00:10:42Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE53VFR3TXV4a01JUnU5bGI3TW0rT0JMUmZlU09VcnYwRWd4cFpOZzlTMmdGMlNWd0x2ZXkyN1U5c0NERGRQcjlER2pIL01acWtKMHdSQWZBVDVpdFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI4NjkyCWZpbGU6U05TUyBDbGllbnRfMC4yLjMwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMzAKQTJBUDVSVGNHMnptaGJsa1V0cTdLanRBZjd0TmY2b1ZjSlI1YkdGRmsyU3BrTS9va1NJM2NNRnppQWJrWElVNnNyRk11bmVpWFU4enMrWkwrYjR1Q0E9PQo=",
-                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.30/snss-client_0.2.30_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzJzb1dRTkZGZE9HSTgvYVh3d1B0U0ZISnp5WTRkN3JXK1JTQnpiQlZDMXdaemx3QXZZZnpsYkFKM2hYQlNLT2t0SDJQZjNvcEw5emI3TWFIcjJSQmpmSGFFZ2NBN0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzAxNDM4CWZpbGU6U05TUyBDbGllbnRfMC4yLjMyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMzIKcW9RSm02enFoeHA5dlFTZ1BGazJkbEQ0NVdLQTc4cys0UW1SR2FyaGVoa2lDaEpGY1k0UFZReEZaZkd2UTN3SXBXUzZZbURNa1VaSU5jbjdzaE9ZRHc9PQo=",
+                                             "url":  "https://github.com/3f9b9c75b775e292d3e7/ce6779cf6d471ba50737/releases/download/client-v0.2.32/snss-client_0.2.32_x64-setup.exe"
                                          }
                   }
 }
